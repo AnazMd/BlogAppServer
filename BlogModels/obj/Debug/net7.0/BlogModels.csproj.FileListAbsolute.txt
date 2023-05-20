@@ -1,0 +1,12 @@
+C:\Users\anzmh\source\repos\BlogAPI\BlogModels\bin\Debug\net7.0\BlogModels.deps.json
+C:\Users\anzmh\source\repos\BlogAPI\BlogModels\bin\Debug\net7.0\BlogModels.dll
+C:\Users\anzmh\source\repos\BlogAPI\BlogModels\bin\Debug\net7.0\BlogModels.pdb
+C:\Users\anzmh\source\repos\BlogAPI\BlogModels\obj\Debug\net7.0\BlogModels.csproj.AssemblyReference.cache
+C:\Users\anzmh\source\repos\BlogAPI\BlogModels\obj\Debug\net7.0\BlogModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anzmh\source\repos\BlogAPI\BlogModels\obj\Debug\net7.0\BlogModels.AssemblyInfoInputs.cache
+C:\Users\anzmh\source\repos\BlogAPI\BlogModels\obj\Debug\net7.0\BlogModels.AssemblyInfo.cs
+C:\Users\anzmh\source\repos\BlogAPI\BlogModels\obj\Debug\net7.0\BlogModels.csproj.CoreCompileInputs.cache
+C:\Users\anzmh\source\repos\BlogAPI\BlogModels\obj\Debug\net7.0\BlogModels.dll
+C:\Users\anzmh\source\repos\BlogAPI\BlogModels\obj\Debug\net7.0\refint\BlogModels.dll
+C:\Users\anzmh\source\repos\BlogAPI\BlogModels\obj\Debug\net7.0\BlogModels.pdb
+C:\Users\anzmh\source\repos\BlogAPI\BlogModels\obj\Debug\net7.0\ref\BlogModels.dll
